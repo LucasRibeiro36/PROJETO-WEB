@@ -1,0 +1,14 @@
+h1.pagina {
+    color: red;
+}
+
+p.pagina {
+    color: blue;
+}
+
+img.logo {
+    width: 100px;
+    height: 100px;
+    float: left;
+    margin-right: 10px;
+}
